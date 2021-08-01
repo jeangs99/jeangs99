@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá pessoas! 👋
 
 
-**jeangs99/jeangs99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sejam bem-vindos ao meu perfil no ✨ _github_ ✨, fiquem a vontade para explorar os repositórios.
 
-Here are some ideas to get you started:
+Para começar:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 Atualmente estou trabalhando como Analista de Microinformática.
+- 🌱 Atualmente estou aprendendo Java.
+- 🤔 Estou procurando ajuda para saber como entrar na área de desenvolvimento
+- 📫 Como me encontrar: j.sweethome
 
+![jeangs99 Status](https://github-readme-stats.vercel.app/api?username=jeangs99&show_icons=true)
+
+![insta](img/j.sweethome_nametag.png)
