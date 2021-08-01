@@ -12,4 +12,4 @@ Para começar:
 
 ![jeangs99 Status](https://github-readme-stats.vercel.app/api?username=jeangs99&show_icons=true)
 
-![insta](j.sweethome_nametag.png)
+![insta](insta.png)
