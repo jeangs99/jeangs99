@@ -5,7 +5,7 @@ Sejam bem-vindos ao meu perfil no ✨ _github_ ✨, fiquem a vontade para explor
 
 Para começar:
 
-- :alien: Tenho 22 anos.
+- :alien: Tenho 23 anos.
 - 🔭 Atualmente estou trabalhando como Analista de Microinformática
 - 🌱 Cursando Análise e Desenvolvimento de Sistemas na Uninove - 5/5
 - 🤔 Estou procurando ajuda para saber como entrar na área de desenvolvimento
