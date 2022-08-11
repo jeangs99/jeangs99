@@ -7,7 +7,7 @@ Para começar:
 
 - :alien: Tenho 23 anos.
 - 🔭 Atualmente estou trabalhando como Analista de Microinformática
-- 🌱 Cursando Análise e Desenvolvimento de Sistemas na Uninove - 5/5
+- 🌱 Graduado em Análise e Desenvolvimento de Sistemas na Uninove - 5/5
 - 🤔 Estou procurando ajuda para saber como entrar na área de desenvolvimento
 - 📫 Como me encontrar: [LinkedIn](https://www.linkedin.com/in/jeangs99/)
 
